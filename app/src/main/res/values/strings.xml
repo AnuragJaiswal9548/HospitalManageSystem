@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Hospital Management</string>
+    <string name="welcome_to_this_application">Welcome to this Application</string>
+    <string-array name="timeframes">
+<item> Select the time you are available </item>
+<item>7-9 AM</item>
+        <item>9-11 AM</item>
+        <item>11-1 PM</item>
+        <item>1-3 PM</item>
+        <item>3-6 PM</item>
+
+    </string-array>
+
+    <string-array name="deparments">
+        <item>Select Department</item>
+        <item>Destination</item>
+        <item>Surgery</item>
+
+
+
+    </string-array>
+
+    <string-array name="Specialization">
+        <item>select specialization</item>
+        <item>General </item>
+        <item>Preiodontist</item>
+
+
+    </string-array>
+
+
+</resources>
